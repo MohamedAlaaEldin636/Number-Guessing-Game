@@ -4,11 +4,11 @@
 
 - Simple Android App to Practice CI/CD with GitHub Actions isa.
 
-# Contents [▴](#line-text)
+# Contents [▴](#number-guessing-game)
 
 - [License](#license-)
 
-## [License](https://github.com/MohamedAlaaEldin636/Line-Text/blob/master/LICENSE) [▴](#contents-)
+## [License](LICENSE) [▴](#contents-)
 
 ```
 Copyright © 2020 Mohamed Alaa
