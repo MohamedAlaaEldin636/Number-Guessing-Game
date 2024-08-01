@@ -9,13 +9,13 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class ExampleUnitTest2 {
     @Test
     fun addition_isCorrect() {
-        println("Start of addition_isCorrect")
+        println("Start of addition_isCorrect2")
 
         assertEquals(4, 2 + 2)
 
-        println("End of addition_isCorrect")
+        println("End of addition_isCorrect2")
     }
 }
