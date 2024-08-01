@@ -35,6 +35,8 @@ jobs:
 
   run_unit_tests:
 
+    needs: build
+
     runs-on: ubuntu-latest
 
     steps:
